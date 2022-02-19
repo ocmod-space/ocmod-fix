@@ -7,4 +7,4 @@ An extension for OpenCart 3.0.3.5/6 that solves the following issues:
 
 Required installed [Fix|Dir Access](https://github.com/ocmod-space/ocmod-fix/main/addons/dir-access) extension.
 
-There is a lite version without any requirements - [Fix|Twig Lite](https://github.com/ocmod-space/ocmod-fix/main/addons/twig-lite).
+There is a lite version without any requirements - [Fix|Twig Lite](https://github.com/ocmod-space/ocmod-fix/tree/main/addons/twig-lite).
